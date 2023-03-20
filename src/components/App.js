@@ -1,3 +1,4 @@
+/** @format */
 import React, { useState } from "react";
 import Question from "./Question";
 import quiz from "../data/quiz";
